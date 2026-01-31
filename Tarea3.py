@@ -32,3 +32,5 @@ if opcion == 4:
 if opcion == 5:
     int(input("salir: "))
     opcion = int(input("Seleccione alguna de las opciones (anteriores): "))
+
+
